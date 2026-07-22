@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Cinzel+Decorative&size=28&duration=4000&pause=1000&color=d4af37&center=true&vCenter=true&width=600&height=60&lines=✦+Alucard+✦;Born+from+code%2C+forged+in+the+arcane" alt="Mythical Title" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Cinzel+Decorative&size=28&duration=4000&pause=1000&color=d4af37&center=true&vCenter=true&width=600&height=60&lines=✦+Alucard0x1+✦;Born+from+code%2C+forged+in+the+arcane" alt="Mythical Title" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white" />
